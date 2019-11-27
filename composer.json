@@ -67,6 +67,7 @@
         "bin/templatemap_generator.php"
     ],
     "replace": {
+        "zendframework/zendframework": "2.3.9",
         "zendframework/zend-authentication": "2.3.9",
         "zendframework/zend-barcode": "2.3.9",
         "zendframework/zend-cache": "2.3.9",
